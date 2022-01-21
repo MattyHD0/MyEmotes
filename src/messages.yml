@@ -1,0 +1,48 @@
+messages:
+  prefix: '&8[&e&lMyEmotes&8]&7'
+  commands:
+    emotes:
+      auto-list:
+        header: '&e--------[ &6Emotes &e]--------'
+        emote: '&e{key} &7- &e{emote}'
+        footer: '&e------------------------'
+      custom-list:
+        - '&aCustom Emote List:'
+        - '&e<3 &7- &c❤&f'
+        - '&e:star: &7- &6✮&f'
+        - '&e:yes: &7- &a✔&f'
+        - '&e:no: - &c✖&f'
+        - '&e:java: - &b☕&f'
+        - '&eAnd much more...'
+    myemotes:
+      invalid-subcommand: '{prefix} &7That subcommand does not exist, to receive help use &e/myemotes help&7.'
+      help:
+        - '{prefix} &7Command list:'
+        - '&7> &e/emotes &7- &6Shows the list of emotes that you can use'
+        - '&7> &e/myemotes create <id> <key> <emote> <permission> &7- &6Create an emote'
+        - '&7> &e/myemotes delete <id> &7- &6Delete an emote'
+        - '&7> &e/myemotes list <page> &7- &6Show the list of emotes and their settings'
+        - '&7> &e/myemotes reload &7- &6Reload the plugin'
+      list:
+        header: '{prefix} &7Page: &e{current}&7/&e{max}'
+        id: '&7ID: &e{id}'
+        key: '&7Key: &e{key}'
+        emote: '&7Emote: &e{emote}'
+        permission: '&7Permission: &e{permission}'
+        footer: '{prefix} &7Page: &e{current}&7/&e{max}'
+        page-not-found: '{prefix} &cThe page {page} does not exist.'
+        invalid-number: '{prefix} &cThe entered number is invalid.'
+      create:
+        successfully-created: '{prefix} &7The emote &a{emote} &7was created with the key &a{key}&7, the id &a{id} &7and the permission &a{permission}&7.'
+        id-cannot-contain-period: '{prefix} &7The emote id cannot contain periods (.).'
+        already-exist: '{prefix} &7The emote with the id &c{id} &7already exists.'
+      delete:
+        successfully-deleted: '{prefix} &7The emote with the id &a{id} &7was successfully deleted.'
+        not-exist: '{prefix} &7The emote with the id &c{id} &7does not exist.'
+      reload:
+        reloaded: '{prefix} &7The plugin was reloaded.'
+  other:
+    bad-executor: '{prefix} &cOnly players can run this command.'
+    no-permission: '{prefix} &cYou do not have permissions to do that!'
+    unknown-subcommand: '{prefix} &cThat subcommand does not exist! For help use &e/myemotes help&7.'
+    correct-usage: '{prefix} &7Correct usage: {command}&7.'

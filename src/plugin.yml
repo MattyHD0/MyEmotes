@@ -1,0 +1,12 @@
+main: me.mattyhd0.MyEmotes.MyEmotes
+name: MyEmotes
+version: 1.0.2
+description: 'Yes, another emote plugin'
+author: MattyHD0
+commands:
+  emotes:
+    description: Show the emotes list
+    usage: /<command>
+  myemotes:
+    description: MyEmotes general command
+    usage: /<command>

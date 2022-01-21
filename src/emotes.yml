@@ -1,0 +1,104 @@
+hearth:
+  permission: NONE
+  key: '<3'
+  emote: '&c❤&f'
+
+star:
+  permission: NONE
+  key: ':star:'
+  emote: '&6✮&f'
+
+yes:
+  permission: NONE
+  key: ':yes:'
+  emote: '&a✔&f'
+
+no:
+  permission: NONE
+  key: ':no:'
+  emote: '&c✖&f'
+
+java:
+  permission: NONE
+  key: ':java:'
+  emote: '&b☕&f'
+
+arrow:
+  permission: NONE
+  key: ':arrow:'
+  emote: '&e&l➜&f'
+
+shrug:
+  permission: NONE
+  key: ':shrug:'
+  emote: '&e&l¯\\_(ツ)_/¯&f'
+
+tableflip:
+  permission: NONE
+  key: ':tableflip:'
+  emote: '&c(╯°□°）╯&7︵ ┻━┻&f'
+
+hi:
+  permission: NONE
+  key: 'o/'
+  emote: '&d( ﾟ◡ﾟ)/&f'
+
+123:
+  permission: NONE
+  key: ':123:'
+  emote: '&a1&e2&c3&f'
+
+totem:
+  permission: NONE
+  key: ':totem:'
+  emote: '&b◎&e_&b◎&f'
+
+typing:
+  permission: NONE
+  key: ':typing:'
+  emote: '&e✎&6...&f'
+
+maths:
+  permission: NONE
+  key: ':maths:'
+  emote: '&a√&e(&aπ+x&e)&a=&cL&f'
+
+snail:
+  permission: NONE
+  key: ':snail:'
+  emote: "&e@&a'&e-&a'&f"
+
+thinking:
+  permission: NONE
+  key: ':thinking:'
+  emote: '&6(&a0&e.&ao?&6)&f'
+
+gimme:
+  permission: NONE
+  key: ':gimme:'
+  emote: '&b༼ つ ◕_◕ ༽つ&f'
+
+wizard:
+  permission: NONE
+  key: ':wizard:'
+  emote: "&e(&b'&e-&b'&e)⊃&c━&d☆ﾟ.*･｡ﾟ&f"
+
+pvp:
+  permission: NONE
+  key: ':pvp:'
+  emote: '&e⚔&f'
+
+peace:
+  permission: NONE
+  key: ':peace:'
+  emote: '&a✌&f'
+
+oof:
+  permission: NONE
+  key: ':oof:'
+  emote: '&c&lOOF&f'
+
+puffer:
+  permission: NONE
+  key: ':puffer:'
+  emote: "&e&l<('O')>&f"

@@ -1,0 +1,8 @@
+config:
+  update-checker: true
+  emotes-list:
+    use-custom-list: false
+    auto:
+      show-emote-only-if-have-permission: false
+      use-header: true
+      use-footer: true
