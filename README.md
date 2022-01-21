@@ -14,5 +14,5 @@ Plugin for Spigot that allows you to create emotes for the chat
 
 ## Some images
 
-![MyEmotes Command Image](https://www.spigotmc.org/attachments/upload_2021-10-27_20-7-39-png.660053/)
-![Emotes Command Image](https://www.spigotmc.org/attachments/upload_2021-10-27_20-14-35-png.660058/)
+![MyEmotes Command Image](https://i.imgur.com/3kVpDtt.png)
+![Emotes Command Image](https://i.imgur.com/3uunm3H.png)
